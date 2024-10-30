@@ -1,4 +1,10 @@
-# bike-sharing-assignment
+# Bike Sharing Assignment
+
+## Table of Contents
+* [Problem Statement](#problem-statement)
+* [Business Goal](#business-goal)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
 ## Problem Statement:
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
@@ -9,7 +15,7 @@ You are required to model the demand for shared bikes with the available indepen
 ## Conclusions
 cnt = yr*(0.233570) + holiday*(-0.097463) + temp*(0.490988) + windspeed*(-0.147919) + July*(-0.052057) + Sept*(0.076846) + Light_rain_snow*(-0.284199) + Misty*(-0.080167) + Spring*(-0.067169) + Summer*(0.046487) + Winter*(0.081741) + 0.199434
 
-## Teck Stack
+## Technologies Used
 - Python
 - NumPy
 - Pandas
@@ -17,3 +23,9 @@ cnt = yr*(0.233570) + holiday*(-0.097463) + temp*(0.490988) + windspeed*(-0.1479
 - Stats
 - MatPlotLib
 - Seaborn
+
+## Acknowledgements
+Thanks to IIIT-B and Upgrad  
+
+## Contact
+Created by [@NikhilCPatil] - feel free to contact me!
